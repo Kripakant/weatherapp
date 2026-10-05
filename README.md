@@ -15,9 +15,6 @@ This project is a full-stack weather application which allows users to search fo
 - [Stay Updated](#stay-updated)
 - [Contact](#contact)
 
-## Demo
-
-You can see a live demo of the project [here](https://www.weather-app.jesselessa.dev).
 
 ## Stack
 
