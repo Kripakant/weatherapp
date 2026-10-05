@@ -68,9 +68,6 @@ Feel free to make improvements, fix bugs, or suggest new features. Contributions
 
 To stay updated with the project latest changes, you can pull them from the repository : `git pull origin main`
 
-## Contact
-
-For inquiries, you can contact me via [LinkedIn](https://www.linkedin.com/in/jesselessa/).
 
 ---
 
